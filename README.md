@@ -1,7 +1,3 @@
-<!-- 顶部彩色横幅（可选） -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xws111/xws111/main/banner.png" alt="Banner" width="100%" />
-</p>
 
 # 👋 Hi there, I’m **David Gao** (xws111)
 
